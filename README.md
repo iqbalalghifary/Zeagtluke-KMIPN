@@ -20,3 +20,13 @@ The target in using this information system is of course especially the governme
 7. Claim Awards Page
    
    ![img104](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/c008ab88-b43a-4a14-a454-b68105c0c654)
+
+8. System Mechanism
+   ![image](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/8f4c258e-454b-4c9a-a1b4-daa9b93d076c)
+
+9. Component Architecture
+   ![image](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/151b2562-9242-421b-9d5f-10949848bd1b)
+
+10. Case Study
+    ![image](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/6175e7d3-db85-4a9f-a5f3-4bd63b2dc0a1)
+    ![image](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/b51c13a1-d026-4187-a800-8982ac47e137)
