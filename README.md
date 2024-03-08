@@ -5,9 +5,12 @@ The target in using this information system is of course especially the governme
 # Demonstration
 1. Home Page
    ![img91](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/2971a774-de46-42f6-bf50-28e8ce460cba)
-2. Journey Status Page
+   
+3. Journey Status Page
    ![img95](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/30831adb-da10-437c-ba98-8bd0f8c55bd1)
-3. Violation Log Page
+   
+5. Violation Log Page
    ![img98](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/22090f97-4c8a-42f9-af33-8f8c90850405)
-4. Claim Awards Page
+   
+7. Claim Awards Page
    ![img104](https://github.com/iqbalalghifary/Zeagtluke-KMIPN/assets/51478039/c008ab88-b43a-4a14-a454-b68105c0c654)
